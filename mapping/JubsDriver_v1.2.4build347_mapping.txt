@@ -51602,8 +51602,8 @@ me.jbusdriver.mvp.presenter.HotRecommendPresenterImpl -> me.jbusdriver.mvp.prese
     void loadData4Page(int) -> d
     void onLoadMore() -> f
     boolean hasLoadNext() -> g
+    void onRefresh() -> h
     void <init>() -> <init>
-    java.util.concurrent.atomic.AtomicInteger access$getCount$p(me.jbusdriver.mvp.presenter.HotRecommendPresenterImpl) -> a
 me.jbusdriver.mvp.presenter.HotRecommendPresenterImpl$loadData4Page$1 -> me.jbusdriver.mvp.presenter.k$a:
     me.jbusdriver.mvp.presenter.HotRecommendPresenterImpl this$0 -> a
     int $page -> b
